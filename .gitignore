@@ -1,0 +1,15 @@
+# python
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# node
+frontend/node_modules/
+frontend/dist/
+
+# env
+.env
+
+# db (local)
+backend/hrms.db
